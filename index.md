@@ -7,7 +7,7 @@ nav_order: 1
 
 # Death by PowerPoint -or- Pursuasive Presentations
 
-- Pre-workshop activities: 15 min 
+- Pre-workshop activities: 30 min 
 - Introductory presentation: 10 min
 - Hands-on activities: 50 min
 
@@ -22,8 +22,7 @@ In this workshop we’re going to focus on learning and usings tips and tricks s
 At the end of this workshop, you will be able to:
 
 1. Create a short instructional multimedia presentation that follows 9 presentation best practices and techniques
-2. Describe in three sentences why planning before you start to create your presentation is so important
-4. List 7 storytelling techniques that can help make PowerPoint presentations more engaging
+2. List 7 storytelling techniques that can help make PowerPoint presentations more engaging
 5. Import 4 or more photos and/or graphics into your PowerPoint or Google presentation, including at least one Creative Commons licensed image from one of the websites highlighted in the workshop
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
