@@ -5,7 +5,6 @@ nav_order: 2
 ---
 # Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice creating a pursuasive presentation using either **[PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint){:target="_blank"}** or **[Google Slides](https://www.google.ca/slides/about/){:target="_blank"}**. To participate fully please do the following **before the workshop**, which should take you **30-35 minutes**:
-
 ## How Can You Avoid Death by PowerPoint?
 By the end of this workshop you will be able to explain to your friends why reading densely packed PowerPoint slides is ineffective, along with why a number of other PowerPoint “sins” should be avoided if you want to make persuasive and memorable presentations. Let’s start to learn about some of these sins to avoid by watching an excellent TEDx video that tells some stories about awful PowerPoint slides and then models the use of several techniques, based on [multimedia learning principles](https://docs.google.com/document/d/1TGVFG_iCc3iSz3aX3j8UC-YC63V__6tKFJQ4FtAsH4o/edit){:target="_blank"}, that we can use to make our presentations persuasive and effective learning objects.
 
