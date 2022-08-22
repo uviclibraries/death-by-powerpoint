@@ -7,7 +7,7 @@ nav_order: 1
 
 # Death by PowerPoint
 
-- Pre-workshop activities: 10 min 
+- Pre-workshop activities: 15 min 
 - Introductory presentation: 10 min
 - Hands-on activities: 50 min
 
