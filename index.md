@@ -21,11 +21,9 @@ In this workshop we’re going to focus on learning and usings tips and tricks s
 
 At the end of this workshop, you will be able to:
 
-1. Identify which Multimedia Learning Principles relate to PowerPoint presentations, and how they can impact a presentation
-2. List 9 best practices for creating an effective PowerPoint presentation
-3. Describe in three sentences why lessons plans are important
-4. List 7 storytelling techniques that can help make PowerPoint presentations more effective
-5. Import 2 or more photos and/or charts into a PowerPoint or Google presentation, including at least one Creative Commons licensed image from one of the websites identified in the workshop
-6. Create an instructional multimedia presentation that conforms to multimedia learning principles, dual coding theory, and cognitive load theory, as well as follows presentation best practices and techniques
+1. Create a short instructional multimedia presentation that follows 9 presentation best practices and techniques
+2. Describe in three sentences why planning before you start to create your presentation is so important
+4. List 7 storytelling techniques that can help make PowerPoint presentations more engaging
+5. Import 4 or more photos and/or graphics into your PowerPoint or Google presentation, including at least one Creative Commons licensed image from one of the websites highlighted in the workshop
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
