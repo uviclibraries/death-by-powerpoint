@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/death-by-powerpoint.png" style="float:right;width:380px;" alt="image description">
+<img src="images/death-by-powerpoint.png" style="float:right;width:300px;" alt="image description">
 
 # Death by PowerPoint
 
@@ -16,21 +16,17 @@ nav_order: 1
 
 We have all been there before… In a class or a meeting, the presenter is reading text off of densely packed PowerPoint slide after slide. If it isn’t death by PowerPoint, reading text off [poorly constructed slides](https://www.pcworld.idg.com.au/slideshow/366369/world-worst-powerpoint-presentations/){:target="_blank"} to an audience is a very ineffective way to teach or convey information in a business setting. This week we’re going to focus on learning tips and tricks so your presentations engage and persuade, and not bore your audience to death by PowerPoint.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1. Identify which Multimedia Learning Principles relate to PowerPoint presentations, and how they can impact a presentation
+2. List 9 best practices for creating an effective PowerPoint presentation
+3. Describe in three sentences why lessons plans are important
+4. List 7 storytelling techniques that can help make PowerPoint presentations more effective
+5. Import 2 or more photos and/or charts into a PowerPoint or Google presentation, including at least one Creative Commons licensed image from one of the websites identified in the workshop
+6. Create an instructional multimedia presentation that conforms to multimedia learning principles, dual coding theory, and cognitive load theory, as well as follows presentation best practices and techniques
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
