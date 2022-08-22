@@ -5,6 +5,7 @@ nav_order: 2
 ---
 # Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice creating a pursuasive presentation using either **[PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint){:target="_blank"}** or **[Google Slides](https://www.google.ca/slides/about/){:target="_blank"}**. To participate fully please do the following **before the workshop**, which should take you **30-35 minutes**:
+
 ## How Can You Avoid Death by PowerPoint?
 By the end of this workshop you will be able to explain to your friends why reading densely packed PowerPoint slides is ineffective, along with why a number of other PowerPoint “sins” should be avoided if you want to make persuasive and memorable presentations. Let’s start to learn about some of these sins to avoid by watching an excellent TEDx video that tells some stories about awful PowerPoint slides and then models the use of several techniques, based on [multimedia learning principles](https://docs.google.com/document/d/1TGVFG_iCc3iSz3aX3j8UC-YC63V__6tKFJQ4FtAsH4o/edit){:target="_blank"}, that we can use to make our presentations persuasive and effective learning objects.
 
@@ -21,7 +22,7 @@ By the end of this workshop you will be able to explain to your friends why read
   8. **Use san-serif fonts like Ariel or Helvetica** as they are easier to read on screens than serif fonts like Times New Roman
   9. **Use contrast to move your audience around the information on your slide** – Signalling & Coherence Principles
 
-## Storytelling & PowerPoint?
+## How Can Storytelling Make Your PowerPoint More Memorable?
 storytelling is a powerful teaching tool. That said, we should never forget to put related and well-constructed stories in our persuasive presentations. Note how Don McMillan, in the following video, tells a series of funny stories to help him make his key points memorable in his, _Life After Death by PowerPoint_ presentation.
 - [Life After Death by PowerPoint (Corporatre Comedy Video)](https://www.youtube.com/watch?v=KbSPPFYxx3o){:target="_blank"} (9 min): 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KbSPPFYxx3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
