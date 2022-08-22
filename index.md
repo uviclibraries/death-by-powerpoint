@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/death-by-powerpoint.png" style="float:right;width:300px;" alt="image description">
 
-# Death by PowerPoint
+# Death by PowerPoint -or- Pursuasive Presentations
 
 - Pre-workshop activities: 15 min 
 - Introductory presentation: 10 min
