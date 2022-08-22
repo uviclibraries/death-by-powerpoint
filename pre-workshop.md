@@ -23,10 +23,18 @@ By the end of this workshop you will be able to explain to your friends why read
   9. **Use contrast to move your audience around the information on your slide** – Signalling & Coherence Principles
 
 ## How Can Storytelling Make Your PowerPoint More Memorable?
-storytelling is a powerful teaching tool. That said, we should never forget to put related and well-constructed stories in our persuasive presentations. Note how Don McMillan, in the following video, tells a series of funny stories to help him make his key points memorable in his, _Life After Death by PowerPoint_ presentation.
+Storytelling is a powerful teaching tool. That said, we should never forget to put related and well-constructed stories in our persuasive presentations. Note how Don McMillan, in the following video, tells a series of funny stories to help him make his key points memorable in his, _Life After Death by PowerPoint_ presentation.
 - [Life After Death by PowerPoint (Corporatre Comedy Video)](https://www.youtube.com/watch?v=KbSPPFYxx3o){:target="_blank"} (9 min): 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KbSPPFYxx3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+- Please skim over the Nayomi Chibana's article on storytelling techniques for presentations, and think of ways you could incorporate some of the techniques into the presentation you will make as part of this workshop: [7 Storytelling Techniques Used by the Most Inspiring TED Presenters](https://visme.co/blog/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/){:target="_blank"}
+- Main points from Nayomi’s article on storytelling in presentations (make sure you read the above article if you haven’t already to get the details for each storytelling suggestion, including presentation video examples):
+  1. Immerse your audience in a story
+  2. Tell a personal story
+  3. Create suspense
+  4. Bring characters to life
+  5. Show. Don’t tell
+  6. Build up to a S.T.A.R. moment
+  7. End with a positive takeaway
 - OPTIONAL - If you don’t have the latest version of Microsoft PowerPoint, you can request a UVic licensed and paid-for version of [Office 365 here](https://onlineservices.uvic.ca/){:target="_blank"}<br>
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
             -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
