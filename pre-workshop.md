@@ -10,7 +10,7 @@ This workshop is primarily hands-on practice creating a pursuasive presentation 
 By the end of this workshop you will be able to explain to your friends why reading densely packed PowerPoint slides is ineffective, along with why a number of other PowerPoint “sins” should be avoided if you want to make persuasive and memorable presentations. Let’s start to learn about some of these sins to avoid by watching an excellent TEDx video that tells some stories about awful PowerPoint slides and then models the use of several techniques, based on [multimedia learning principles](https://docs.google.com/document/d/1TGVFG_iCc3iSz3aX3j8UC-YC63V__6tKFJQ4FtAsH4o/edit){:target="_blank"}, that we can use to make our presentations persuasive and effective learning objects.
 
 - TEDx talk by David JP Phillips: How to avoid death By PowerPoint (19 min)<br>
-<iframe src="https://richmccue.com/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="713" height="462" frameborder="0" allowfullscreen="allowfullscreen" title="Death by PowerPoint"></iframe><script src="https://richmccue.com/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
+<iframe src="https://richmccue.com/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="713" height="462" frameborder="0" allowfullscreen="allowfullscreen" title="Death by PowerPoint"></iframe><script src="https://richmccue.com/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 - Here are some of the key takeaways from David Phillips excellent talk and the 6 dos and don’ts article:
   1. **Only 1 idea per slide** – Cognitive Load Theory
   2. **No more than 6 objects per slide** (including title and images) – Cognitive Load Theory
