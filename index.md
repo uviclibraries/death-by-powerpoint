@@ -14,7 +14,7 @@ nav_order: 1
 
 ## Creating Pursuasive & Engaging Presentations 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+We have all been there before… In a class or a meeting, the presenter is reading text off of densely packed PowerPoint slide after slide. If it isn’t death by PowerPoint, reading text off [poorly constructed slides](https://www.pcworld.idg.com.au/slideshow/366369/world-worst-powerpoint-presentations/){:target="_blank"} to an audience is a very ineffective way to teach or convey information in a business setting. This week we’re going to focus on learning tips and tricks so your presentations engage and persuade, and not bore your audience to death by PowerPoint.
 
 [Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
 
