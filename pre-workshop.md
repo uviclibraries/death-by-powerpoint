@@ -24,7 +24,8 @@ By the end of this workshop you will be able to explain to your friends why read
 
 ## Storytelling & PowerPoint?
 storytelling is a powerful teaching tool. That said, we should never forget to put related and well-constructed stories in our persuasive presentations. Note how Don McMillan, in the following video, tells a series of funny stories to help him make his key points memorable in his, _Life After Death by PowerPoint_ presentation.
-
+- [Life After Death by PowerPoint (Corporatre Comedy Video)](https://www.youtube.com/watch?v=KbSPPFYxx3o){:target="_blank"} (9 min): 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KbSPPFYxx3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - OPTIONAL - If you don’t have the latest version of Microsoft PowerPoint, you can request a UVic licensed and paid-for version of [Office 365 here](https://onlineservices.uvic.ca/){:target="_blank"}<br>
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
