@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## Death by Powerpoint Resources
+## Death by Powerpoint References
 - 8 Classic storytelling techniques for engaging presentations. (2018, May 30). Sparkol. https://www.sparkol.com/en/Blog/8-Classic-storytelling-techniques-for-engaging-presentations
 - Chibana, N. (2015). 7 Storytelling Techniques Used by the Most Inspiring TED Presenters. Visual Learning Center by Visme. https://visme.co/blog/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/
 - McCue, R. (2020). Principles of Multimedia Learning—A summary. https://docs.google.com/document/d/1TGVFG_iCc3iSz3aX3j8UC-YC63V__6tKFJQ4FtAsH4o/
