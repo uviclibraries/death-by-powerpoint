@@ -3,8 +3,8 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## UPDATE BELOW: Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with **UPDATE** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+## Pre-Workshop Videos & Activities
+This workshop is primarily hands-on practice creating a pursuasive presentation using either **[PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint){:target="_blank"}** or **[Google Slides](https://www.google.ca/slides/about/){:target="_blank"}**. To participate fully please do the following **before the workshop**:
 
 **UPDATE BELOW: 5-10 minutes.**<br>
 - OPTIONAL - [Introduction to Spreadsheets for Beginners](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (5 min)<br>
