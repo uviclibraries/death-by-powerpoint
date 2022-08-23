@@ -11,7 +11,7 @@ By the end of this workshop you will be able to explain to your friends why read
 
 - TEDx talk by David JP Phillips: How to avoid death By PowerPoint (19 min)<br>
 <iframe src="https://richmccue.com/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="713" height="462" frameborder="0" allowfullscreen="allowfullscreen" title="Death by PowerPoint"></iframe><script src="https://richmccue.com/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-- Here are some of the key takeaways from David Phillips excellent talk and the 6 dos and don’ts article:
+- Here are the key takeaways from David Phillips excellent talk:
   1. **Only 1 idea per slide** – Cognitive Load Theory
   2. **No more than 6 objects per slide** (including title and images) – Cognitive Load Theory
   3. **Don’t read text off your side**, let your audience read it – Redundancy Principle
