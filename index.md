@@ -21,8 +21,10 @@ In this workshop we’re going to focus on learning and usings tips and tricks s
 
 At the end of this workshop, you will be able to:
 
-1. Create a short instructional multimedia presentation that follows 9 presentation best practices and techniques
-2. List 7 storytelling techniques that can help make PowerPoint presentations more engaging
-5. Import 4 or more photos and/or graphics into your PowerPoint or Google presentation, including at least one Creative Commons licensed image from one of the websites highlighted in the workshop
+1. Create a 1-2 minute (or more) narrated multimedia presentation on a topic you're interested in
+2. Follow the 9 presentation best practices and techniques outlined in this workshop
+3. Include a story in your presentation that takes advantages of 5 or more of the 7 storytelling techniques outlined in this workshop
+4. Import 4 or more photos and/or graphics into your PowerPoint or Google presentation including at least one Creative Commons licensed image
+5. Record your presentation using a screen capture tool
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
