@@ -9,7 +9,7 @@ nav_order: 1
 
 - Pre-workshop activities: 30 min 
 - Introductory presentation: 10 min
-- Hands-on activities: 50 min
+- Hands-on activities: 90 min
 
 ## Creating Pursuasive & Engaging Presentations 
 
