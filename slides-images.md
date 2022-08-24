@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Slides & Images
+title: 3-Slides & Images
 nav_order: 7
 parent: Workshop Activities
 ---
