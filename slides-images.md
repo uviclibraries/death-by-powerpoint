@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Slides & Images
-nav_order: 5
+nav_order: 7
 parent: Workshop Activities
 ---
 # Create Your Slides with Complementary Imagry
