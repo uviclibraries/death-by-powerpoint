@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Topic & Key Points
+title: Engaging Story
 nav_order: 3
-parent: Engaging Story
+parent: Workshop Activities
 ---
 # A Story to Engage
 
