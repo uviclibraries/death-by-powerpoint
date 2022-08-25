@@ -5,12 +5,15 @@ nav_order: 3
 parent: Workshop Activities
 ---
 # Choosing a Topic & Identifying Key Points
-
+## Choosing Your Topic
 Choosing a topic is completely up to you of course. If you have a topic in mind, or a presentaiton that you need to create, please go ahead and use the topic of your choice. If you don't have a topic in mind we will provide you with a topic based on a published research paper and will lead you through the process of creating a presentation for it. It's even better if you have a topic of your own, in which case please use the instructions for the published research paper as guidlines as you create your own presentation. Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on what you have done so far.
 
+## Audience & Time Contraints
 - Topic: Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing
 - Time constraint: The conference has imposed a limit of 10 minutes for conference presentations
 - Audience: This is an audience of university makerspace staff, but not education experts for the most part. Other audience considerations include age, interestes, cultural references, etc.
+
+## Key Points to Cover
 - Key Points so cover: They are highligts in the attached PDF...
 
 
