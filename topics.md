@@ -11,7 +11,7 @@ Choosing a topic is completely up to you of course. If you have a topic in mind,
 - Topic: Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing
 - Time constraint: The conference has imposed a limit of 10 minutes for conference presentations
 - Audience: This is an audience of university makerspace staff, but not education experts for the most part. Other audience considerations include age, interestes, cultural references, etc.
-- Key Point so cover: They are highligts in the attached PDF...
+- Key Points so cover: They are highligts in the attached PDF...
 
 
 
