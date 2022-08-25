@@ -17,6 +17,8 @@ It's even better if you have a topic of your own or a topic you are interested i
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
 
+Presentation or Topic Title: ___________________________________________________________
+
 ## Audience Characteristics & Time Contraints
 
 - Time constraint: The conference has imposed a limit of 10 minutes for conference presentations
