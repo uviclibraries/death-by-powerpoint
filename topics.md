@@ -8,11 +8,11 @@ parent: Workshop Activities
 ## Choosing Your Topic
 Choosing a topic is completely up to you of course. If you have a topic in mind, or a presentaiton that you need to create, please go ahead and use the topic of your choice. If you don't have a topic in mind we will provide you with a published research paper and will lead you through the process of creating a presentation for it. The provided research paper is titled, _[Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](#){:target="_blank"}_.
 
-It's even better if you have a topic of your own or a topic you are interested in, in which case please follow the instructions for the provided research paper as guidlines as you create your own presentation. Some suggestions for presentation topics include:
+It's even better if you have a topic of your own or a topic you are interested in, in which case please follow the instructions for the provided research paper as guidlines as you create your own presentation. Here are some promptes that hopefully will assist you in selecting a presentation topics (if you decide you would like to use your own topic):
 - Essay or research paper you have written
-- Article you like
-- Wikipedia article
-- 
+- Article you like (academic or popular)
+- [Wikipedia article](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
+- [TED Talk](https://www.ted.com/playlists/171/the_most_popular_talks_of_all){:target="_blank"}
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on what you have done so far.
 
