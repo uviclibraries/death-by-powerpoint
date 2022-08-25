@@ -12,7 +12,7 @@ It's even better if you have a topic of your own or a topic you are interested i
 - Essay or research paper you have written
 - Article you like (academic or popular)
 - [Wikipedia article](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
-- [TED Talk](https://www.ted.com/playlists/171/the_most_popular_talks_of_all){:target="_blank"}
+- [TED Talk](https://www.ted.com/playlists/171/the_most_popular_talks_of_all){:target="_blank"} 
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on what you have done so far.
 
