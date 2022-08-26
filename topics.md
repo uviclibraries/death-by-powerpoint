@@ -20,9 +20,11 @@ Please do not hesitate to ask the instructor leading the workshop if you have an
 
 Presentation or Topic Title: ___________________________________________________________
 
-## Audience Characteristics & Time Contraints
+## Time Contraints
+- You are usually given a maximim time for your presentations. In the case of provided Makerspace Workshop Badge paper, the conference where it is being presented has given a hard time limit of 10 minutes for the presentation. 
+- The way you present may be somewhat different, however if you follow the guidelines in this workshop, you should allow for approximatly 30 seconds per slide. That would mean in the case of the provided research paper, limiting the number of slides to 20. Once you've completed a first draft of the presentation you can verify (or not) that it will take approximatly 10 minutes to present the slides.
 
-- Time constraint: The conference has imposed a limit of 10 minutes for conference presentations
+## Audience Characteristics
 - Audience: This is an audience of university makerspace staff, but not education experts for the most part. Other audience considerations include age, interestes, cultural references, etc.
 
 ## Key Points to Cover in Your Presentation
