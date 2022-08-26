@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 # Choosing a Topic & Identifying Key Points
 ## Choosing Your Topic
-<img src="images/topic-01-article.png" style="float:right;width:300px;" alt="image description">
+<img src="images/topic-01-article.png" style="float:right;width:330px;" alt="image description">
 The topic you choose is completely up to you. If you have a topic in mind, or a presentaiton that you need to create, please go ahead and use the topic of your choice. If you don't have a topic in mind we will provide you with a published research paper and will lead you through the process of creating a presentation for it. The provided research paper is titled, _[Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://docs.google.com/document/d/10xUA9s71liGL4r5jfsEh56SGe2iO9Oqs/){:target="_blank"}_ [**UPDATE THIS LINK**].
 
 It's even better if you have a topic of your own or a topic you are interested in, in which case please follow the instructions for the provided research paper as guidlines as you create your own presentation. Here are some promptes that hopefully will assist you in selecting a presentation topics (if you decide you would like to use your own topic):
@@ -22,7 +22,7 @@ Presentation or Topic Title: ___________________________________________________
 
 ## Time Contraints
 - You are usually given a maximim time for your presentations. In the case of provided Makerspace Workshop Badge paper, the conference where it is being presented has given a hard time limit of 10 minutes for the presentation. 
-- The way you present may be somewhat different, however if you follow the guidelines in this workshop, you should allow for approximatly 30 seconds per slide. That would mean in the case of the provided research paper, limiting the number of slides to 20. Once you've completed a first draft of the presentation you can verify (or not) that it will take approximatly 10 minutes to present the slides.
+- How many sides for a 10 minute presentation? If you follow the guidelines in this workshop, you should allow for approximatly 30 seconds per slide. That would mean in the case of the provided research paper, limiting the number of slides to 20. Once you've completed a first draft of the presentation you can time a practice presentation and see if it takes more or less than 10 minutes to present the slides.
 
 ## Audience Characteristics
 - Audience: This is an audience of university makerspace staff, but not education experts for the most part. Other audience considerations include age, interestes, cultural references, etc.
