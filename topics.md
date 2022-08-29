@@ -18,10 +18,12 @@ It's even better if you have a topic of your own or a topic you are interested i
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
 
-Presentation or Topic Title: ___________________________________________________________
+What is your presentation or topic title (if you choose not to use the provided research paper): _________________________________________________________
 
-## Key Points to Cover in a Presentation
-- Key Points so cover: They are highligts in the attached PDF...
+## Identifying Key Points for Your Presentation
+To identify the key points of the article or paper you will base your presentation on, it
+
+If you are using the provided paper on Makerspace Badges to create- Key Points so cover: They are highligts in the attached PDF...
 
 ### How to Find "Key Points" for Your Own Topic?
 - step 1
