@@ -20,6 +20,9 @@ Please do not hesitate to ask the instructor leading the workshop if you have an
 
 Presentation or Topic Title: ___________________________________________________________
 
+## Key Points to Cover in Your Presentation
+- Key Points so cover: They are highligts in the attached PDF...
+
 ## Time Contraints
 You are usually given a maximim time for your presentations. In the case of provided Makerspace Workshop Badge paper, the conference where it is being presented has given a hard time limit of 10 minutes for the presentation. 
 - How many sides for a 10 minute presentation? If you follow the guidelines in this workshop, you should allow for approximatly 30 seconds per slide. That would mean in the case of the provided research paper, limiting the number of slides to 20. 
@@ -29,8 +32,7 @@ You are usually given a maximim time for your presentations. In the case of prov
 
 - The audience of university makerspace staff, but not education experts for the most part. Other audience considerations include age, interestes, cultural references, etc.
 
-## Key Points to Cover in Your Presentation
-- Key Points so cover: They are highligts in the attached PDF...
+
 
 
 [NEXT STEP: Select a Story to Engage](story.html){: .btn .btn-blue }
