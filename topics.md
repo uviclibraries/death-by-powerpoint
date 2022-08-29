@@ -21,7 +21,7 @@ Please do not hesitate to ask the instructor leading the workshop if you have an
 > What is your presentation or topic title, or have you choosen to use the provided research paper above?
 
 ## Identifying Key Points for Your Presentation
-To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these points in mind as you read through your paper/article:
+To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these two points in mind as you read through the document, and then hilight the passages that meet the criteria:
 - **What are the most interesting facts or pieces of informaion in the document?** For example in the Makerspace Badging article, the methods section of the article really isn't that interesting to a general audience, but the _Results_ and _Discuission_ sections (and to a lesser extent the _Literature Review_) have interesting facts and take-a-ways.
 - **What do you want someone who has finished reading the document to know?** For example...
 
