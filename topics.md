@@ -22,11 +22,10 @@ Please do not hesitate to ask the instructor leading the workshop if you have an
 
 ## Identifying Key Points for Your Presentation
 To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these points in mind as you read through your paper/article:
-- **What are the most interesting facts or pieces of informaion?** For example in the Makerspace Badging article, the methods section of the article really isn't that interesting to a general audience, but the _Results_ and _Discuission_ sections (and to a lesser extent the _Literature Review_) have interesting facts and take-a-ways.
-- **What do you want someone who has finished reading the article to know?**
-- 
+- **What are the most interesting facts or pieces of informaion in the document?** For example in the Makerspace Badging article, the methods section of the article really isn't that interesting to a general audience, but the _Results_ and _Discuission_ sections (and to a lesser extent the _Literature Review_) have interesting facts and take-a-ways.
+- **What do you want someone who has finished reading the document to know?** For example...
 
-If you are using the provided paper on Makerspace Badges to create- Key Points so cover: They are highligts in the attached PDF...
+If you are using the provided paper on Makerspace Badges to create your presentation, please review the PDF document with highlighted key points and information and pick out the
 
 ## Time Contraints
 You are usually given a maximim time for your presentations. In the case of provided Makerspace Workshop Badge paper, the conference where it is being presented has given a hard time limit of 10 minutes for the presentation. 
