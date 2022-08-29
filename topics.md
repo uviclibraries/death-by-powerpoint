@@ -13,8 +13,8 @@ It's even better if you have a topic of your own or a topic you are interested i
 - Essay or research paper you have written
 - Something that your are interested in (the environment, language revitalization, economic equality, etc.)
 - Article you like from academic or popular media (E.g. [electric car batteries](https://www.cnet.com/roadshow/news/are-electric-cars-really-better-for-the-environment/){:target="_blank"}, or [colonial place names](https://canadiangeographic.ca/articles/renaming-places-how-canada-is-reexamining-the-map/){:target="_blank"})
-- [Wikipedia article](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
-- [TED Talk](https://www.ted.com/playlists/171/the_most_popular_talks_of_all){:target="_blank"} 
+- [Wikipedia articles](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
+- [TED Talks](https://www.ted.com/playlists/171/the_most_popular_talks_of_all){:target="_blank"} 
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
 
