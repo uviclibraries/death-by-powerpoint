@@ -28,7 +28,7 @@ You are usually given a maximim time for your presentations. In the case of prov
 - How many sides for a 10 minute presentation? If you follow the guidelines in this workshop, you should allow for approximatly 30 seconds per slide. That would mean in the case of the provided research paper, limiting the number of slides to 20. 
 - Once you've completed a first draft of the presentation you can time a practice presentation and see if it takes more or less than 10 minutes to present the slides.
 
-## Audience Characteristics
+## Know Your Audience
 
 - The audience of university makerspace staff, but not education experts for the most part. Other audience considerations include age, interestes, cultural references, etc.
 
