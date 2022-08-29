@@ -20,8 +20,12 @@ Please do not hesitate to ask the instructor leading the workshop if you have an
 
 Presentation or Topic Title: ___________________________________________________________
 
-## Key Points to Cover in Your Presentation
+## Key Points to Cover in a Presentation
 - Key Points so cover: They are highligts in the attached PDF...
+
+### How to Find "Key Points" for Your Own Topic?
+- step 1
+- step 2...
 
 ## Time Contraints
 You are usually given a maximim time for your presentations. In the case of provided Makerspace Workshop Badge paper, the conference where it is being presented has given a hard time limit of 10 minutes for the presentation. 
