@@ -7,8 +7,10 @@ parent: Workshop Activities
 # Choosing a Topic & Identifying Key Points
 ## Choosing Your Topic
 <img src="images/topic-01-article.png" style="float:right;width:330px;" alt="image description">
-The topic you choose is completely up to you. If you have a topic in mind, or a presentaiton that you need to create, please go ahead and use the topic of your choice. If you don't have a topic in mind we will provide you with a published research paper and will lead you through the process of creating a presentation for it. The provided research paper is titled, _[Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://docs.google.com/document/d/10xUA9s71liGL4r5jfsEh56SGe2iO9Oqs/){:target="_blank"}_ [**UPDATE THIS LINK**].
-
+The topic you choose is completely up to you. If you have a topic in mind, or a presentaiton that you need to create, please go ahead and use the topic of your choice. 
+### If You Don't Have a Topic
+If you don't have a topic in mind we will provide you with a published research paper and will lead you through the process of creating a presentation for it. The provided research paper is titled, _[Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://docs.google.com/document/d/10xUA9s71liGL4r5jfsEh56SGe2iO9Oqs/){:target="_blank"}_ [**UPDATE THIS LINK**].
+### If You Have a Topic
 It's even better if you have a topic of your own or a topic you are interested in, in which case please use the instructions for the provided research paper as guidlines as you create your own presentation. Here are some promptes that can assist you in selecting a presentation topic of your own (if you decide you would like to choose your own topic):
 - Essay or research paper you have written
 - A Topic you are interested in (environment, language revitalization, economic equality, etc.)
