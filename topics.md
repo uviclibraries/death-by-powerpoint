@@ -7,18 +7,20 @@ parent: Workshop Activities
 # Choosing a Topic & Identifying Key Points
 ## Choosing Your Topic
 <img src="images/topic-01-article.png" style="float:right;width:330px;" alt="image description">
-The topic you choose is completely up to you. If you have a topic in mind, or a presentaiton that you need to create, please go ahead and use the topic of your choice. 
+The topic you choose is completely up to you, whether you have a topic already in mind, or would like to create a presentation with the provided research paper topic. 
 
-### If You Don't Have a Topic & Don't Mind Using the Provided Paper
-If you don't have a topic in mind we will provide you with a published research paper and will lead you through the process of creating a presentation for it. The provided research paper is titled, _[Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://docs.google.com/document/d/10xUA9s71liGL4r5jfsEh56SGe2iO9Oqs/){:target="_blank"}_ [**UPDATE THIS LINK**].
+### If You Have a Topic in Mind or Would Like Help Selecting a Topic
+If you have a topic in mind, please use the instructions in the following workshop activities for the provided research paper as guidlines to create your own presentation. 
 
-### If You Have a Topic or Would Like Help Selecting a Topic
-If you have a topic of your own or a topic you are interested in, please use the instructions for the provided research paper as guidlines to create your own presentation. If you would like to use your own topic, but don't have one selected yet, here are some promptes that can assist you:
-- Essay or research paper you have written
-- A Topic you are interested in (environment, language revitalization, economic equality, etc.)
-- Article from academic or popular media (E.g. [electric car batteries](https://www.cnet.com/roadshow/news/are-electric-cars-really-better-for-the-environment/){:target="_blank"}, or [colonial place names](https://canadiangeographic.ca/articles/renaming-places-how-canada-is-reexamining-the-map/){:target="_blank"})
-- [Wikipedia articles](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
-- [TED Talks](https://www.ted.com/playlists/171/the_most_popular_talks_of_all){:target="_blank"} 
+If you would like to use your own topic, but don't have one selected yet, or don't have a presentation that you need to create for a class or conference, here are some promptes that can assist you in selecting a topic that is of interest to you:
+- An Essay or research paper you have written
+- A Topic you are interested in (environment, language revitalization, economic equality, for example)
+- An Article from a journal or popular media (for example: [electric car batteries](https://www.cnet.com/roadshow/news/are-electric-cars-really-better-for-the-environment/){:target="_blank"}, or [colonial place names](https://canadiangeographic.ca/articles/renaming-places-how-canada-is-reexamining-the-map/){:target="_blank"})
+- A [Wikipedia articles](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
+- A [TED Talk](https://www.ted.com/playlists/171/the_most_popular_talks_of_all){:target="_blank"} 
+
+### If You Don't Have a Topic & Want to Use the Provided Paper
+If you don't have a topic in mind we will provide you with a research paper and will lead you through the process of creating a presentation for it. The provided research paper is titled, _[Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://docs.google.com/document/d/10xUA9s71liGL4r5jfsEh56SGe2iO9Oqs/){:target="_blank"}_ [**UPDATE THIS LINK**].
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
 
