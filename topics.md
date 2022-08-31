@@ -20,18 +20,18 @@ If you would like to use your own topic, but don't have one selected yet, or don
 - A [TED Talk](https://www.ted.com/playlists/171/the_most_popular_talks_of_all){:target="_blank"} 
 
 ### If You Don't Have a Topic & Want to Use the Provided Paper
-If you don't have a topic in mind we will provide you with a research paper and will lead you through the process of creating a presentation for it. The provided research paper is titled, _[Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://docs.google.com/document/d/10xUA9s71liGL4r5jfsEh56SGe2iO9Oqs/){:target="_blank"}_ [**UPDATE THIS LINK**].
+If you don't have a topic in mind we will provide you with a research paper and will lead you through the process of creating a presentation for it.
 
-Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
-
-**QUESTION: What is your presentation or topic title, or have you choosen to use the provided research paper above?**
+**At this point you should have decided on your presentation topic, or choosen to use the provided research paper below.**
 
 ## Identifying Key Points for Your Presentation
 To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these two points in mind as you read through the document, and then hilight the passages that meet the criteria:
-- **What are the most interesting facts or pieces of informaion in the document?** For example in the Makerspace Badging article, the methods section of the article really isn't that interesting to a general audience, but the _Results_ and _Discuission_ sections (and to a lesser extent the _Literature Review_) have interesting facts and take-a-ways.
+- **What are the most interesting facts or pieces of informaion in the document or topic?** For example in the Makerspace Badging article, the methods section of the article really isn't that interesting to a general audience, but the _Results_ and _Discuission_ sections (and to a lesser extent the _Literature Review_) have interesting facts and take-a-ways.
 - **What do you want someone who has finished reading the document to know?** For example...
 
 If you are using the provided paper on Makerspace Badges to create your presentation, please review the PDF document with highlighted key points and information and pick out the
+
+Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
 
 ## Time Contraints
 You are usually given a maximim time for your presentations. In the case of provided Makerspace Workshop Badge paper, the conference where it is being presented has given a hard time limit of 10 minutes for the presentation. 
