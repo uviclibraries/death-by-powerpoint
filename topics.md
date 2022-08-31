@@ -24,7 +24,7 @@ If you don't have a topic in mind we will provide you with a research paper and 
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
 
-**What is your presentation or topic title, or have you choosen to use the provided research paper above?**
+**QUESTION: What is your presentation or topic title, or have you choosen to use the provided research paper above?**
 
 ## Identifying Key Points for Your Presentation
 To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these two points in mind as you read through the document, and then hilight the passages that meet the criteria:
