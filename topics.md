@@ -8,9 +8,11 @@ parent: Workshop Activities
 ## Choosing Your Topic
 <img src="images/topic-01-article.png" style="float:right;width:330px;" alt="image description">
 The topic you choose is completely up to you. If you have a topic in mind, or a presentaiton that you need to create, please go ahead and use the topic of your choice. 
-### If You Don't Have a Topic
+
+### If You Don't Have a Topic & Don't Mind Using the Provided Paper
 If you don't have a topic in mind we will provide you with a published research paper and will lead you through the process of creating a presentation for it. The provided research paper is titled, _[Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://docs.google.com/document/d/10xUA9s71liGL4r5jfsEh56SGe2iO9Oqs/){:target="_blank"}_ [**UPDATE THIS LINK**].
-### If You Have a Topic
+
+### If You Have a Topic or Would Like Help Selecting a Topic
 If you have a topic of your own or a topic you are interested in, please use the instructions for the provided research paper as guidlines to create your own presentation. If you would like to use your own topic, but don't have one selected yet, here are some promptes that can assist you:
 - Essay or research paper you have written
 - A Topic you are interested in (environment, language revitalization, economic equality, etc.)
@@ -20,7 +22,7 @@ If you have a topic of your own or a topic you are interested in, please use the
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
 
-> What is your presentation or topic title, or have you choosen to use the provided research paper above?
+**What is your presentation or topic title, or have you choosen to use the provided research paper above?**
 
 ## Identifying Key Points for Your Presentation
 To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these two points in mind as you read through the document, and then hilight the passages that meet the criteria:
