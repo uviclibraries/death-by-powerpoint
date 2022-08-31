@@ -11,7 +11,7 @@ The topic you choose is completely up to you. If you have a topic in mind, or a 
 ### If You Don't Have a Topic
 If you don't have a topic in mind we will provide you with a published research paper and will lead you through the process of creating a presentation for it. The provided research paper is titled, _[Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://docs.google.com/document/d/10xUA9s71liGL4r5jfsEh56SGe2iO9Oqs/){:target="_blank"}_ [**UPDATE THIS LINK**].
 ### If You Have a Topic
-It's even better if you have a topic of your own or a topic you are interested in, in which case please use the instructions for the provided research paper as guidlines as you create your own presentation. Here are some promptes that can assist you in selecting a presentation topic of your own (if you decide you would like to choose your own topic):
+If you have a topic of your own or a topic you are interested in, please use the instructions for the provided research paper as guidlines to create your own presentation. If you would like to use your own topic, but don't have one selected yet, here are some promptes that can assist you:
 - Essay or research paper you have written
 - A Topic you are interested in (environment, language revitalization, economic equality, etc.)
 - Article from academic or popular media (E.g. [electric car batteries](https://www.cnet.com/roadshow/news/are-electric-cars-really-better-for-the-environment/){:target="_blank"}, or [colonial place names](https://canadiangeographic.ca/articles/renaming-places-how-canada-is-reexamining-the-map/){:target="_blank"})
