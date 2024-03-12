@@ -17,7 +17,10 @@ It's so important to know who your audience is! Is your audience your professor 
 
 In each case, the key points you discuss, and the language you use should be somewhat different. For example, the language and cultural reference you use for a group of university students will be quite different than the simple language, and "Paw Patrol" reference you might use for a group of elementary students. Different audiences mean different cultural references and different stories that will resonate with each group.
 
-> The audience for the Makerspace Workshop Badge presentation will be a group of peers consisting of university makerspace staff, engineering professors, and librarians who work in university library makerspaces, but who are not education experts for the most part.
+> The audience for the Makerspace Workshop Badge presentation will be a group of peers consisting of:
+> - **University makerspace staff**
+> - **Engineering professors**
+> - **Librarians who work in university library makerspaces**
 
 ## Time Constraints
 We often have, or are given, a maximum time for our presentations, whether the time limit is given to us by conference organizers, or because we have a specific amount of time to lecture during a class. In the case of the provided Makerspace Workshop Badge paper, the conference where it was  presented had a hard time limit of 10 minutes for all presentations. 
