@@ -31,9 +31,16 @@ We often have, or are given, a maximum time for our presentations, whether the t
 ## Identifying Key Points for Your Presentation
 To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these two points in mind as you read through the document, and then highlight the passages that meet the criteria:
 - **What are the most interesting facts or pieces of information in the document or topic?** For example in the Makerspace Badging article, the methods section of the article really isn't that interesting to a general audience, but the _Results_ and _Discuission_ sections (and to a lesser extent the _Literature Review_) have interesting facts and take-a-ways.
-- **What do you want someone who has finished reading the document to know?** For example...
+- **What do you want someone who has finished reading the document to know?** Again, it's important to keep in mind who your audience is at this point because what is important to your professor, will probably be noticeably different than a presentation on the same topic to a group of elementary students.
 
-If you are using the provided paper on Makerspace Badges to create your presentation, please review the PDF document with highlighted key points and information and pick out the
+>Key Points and interesting facts from the [Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/09/031..pdf){:target="_blank"} paper
+> - Informal feedback from learners on the UVic Libraries makerspace badging project has been positive.
+> - The University of Victoria Libraries’ Digital Scholarship Commons (DSC) taught over 20,000 workshop participants and over 1,300 of those participants earned a digital badge.
+> - To date, little research has been published exploring how users of academic makerspaces are using their informal credentials.
+> - 23% percent of drop-in workshop participants earned a makerspace badge for successfully demonstrating the skills they developed in the workshop.
+> - 90% of makerspace badge earners who used their badges in a job search believe that the informal credentials helped them secure a job.
+> - 75% percent of all makerspace badge earners planned on using their badges in future job searches.
+> - The UVic Libraries DSC badging program could be improved by including more detailed instructions on how to use badges in job searches.
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
 
