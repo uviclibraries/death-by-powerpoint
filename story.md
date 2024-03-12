@@ -18,8 +18,9 @@ Just a reminder of key tips to keep in mind as you pull together your story:
 - **End with a positive takeaway or call to action**: If possible try to end with something positive to help anchor your story in peoples' memories.
 
 ## Story for the Makerspace Badging Presentation
-It wasn't easy to come up with a memorable personal story about [Makerspace Workshop Badges](images/makerspace-badge-paper.pdf){:target="_blank"} until I thought back to what prompted us to start a Badging pilot project in the Digital Scholarship Commons (DSC). Here are the key elements of the origin story of Makerspace Badges in the DSC:
+It wasn't easy to come up with a memorable personal story about [Makerspace Workshop Badges](images/makerspace-badge-paper.pdf){:target="_blank"} until I thought back to what prompted us to start a Badging pilot project in the Digital Scholarship Commons (DSC). 
 
+> **Here are the key elements of the origin story of Makerspace Badges in the DSC:**
 > - Not long after we opened our library makerspace, two mechanical engineers took our Electronics with Arduino workshop.
 > - After completing the workshop they asked if they could have a certificate they could put on their resume to let employers know that they not only do they know about mechanical engineering but also have some experience with electronics.
 > - Within a week I’d started our Digital Badging Pilot project I sent the two engineering students Makerspace Badges that they could cite on their resumes.
