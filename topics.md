@@ -34,17 +34,15 @@ To identify the key points of the article or paper you will base your presentati
 - **What do you want someone who has finished reading the document to know?** Again, it's important to keep in mind who your audience is at this point because what is important to your professor, will probably be noticeably different than a presentation on the same topic to a group of elementary students.
 
 >Key Points and interesting facts from the [Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](images/makerspace-badge-paper.pdf){:target="_blank"} paper
-> - Informal feedback from learners on the UVic Libraries makerspace badging project has been positive.
+> - Informal feedback from learners on the UVic Libraries makerspace badging project has been positive, however to date, little research has been published exploring how users of academic makerspaces use their informal credentials.
 > - The University of Victoria Libraries’ Digital Scholarship Commons (DSC) taught over 20,000 workshop participants and over 1,300 of those participants earned a digital badge.
-> - To date, little research has been published exploring how users of academic makerspaces are using their informal credentials.
-> - A mixed-methods approach was taken, with a survey sent to all DSC workshop badge recipients (N=882, n=69). Follow-up interviews were conducted with some survey participants (n=15) to explore topics in greater depth.
+> - A mixed-methods research approach was taken, with a survey sent to all DSC workshop badge recipients (N=882, n=69). Follow-up interviews were conducted with some survey participants (n=15) to explore topics in greater depth.
 > - 23% percent of drop-in workshop participants earned a makerspace badge for successfully demonstrating the skills they developed in the workshop.
 > - 90% of makerspace badge earners who used their badges in a job search believe that the informal credentials helped them secure a job.
 > - 75% percent of all makerspace badge earners planned on using their badges in future job searches.
 > - The UVic Libraries DSC badging program could be improved by including more detailed instructions on how to use badges in job searches.
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
-
 
 [NEXT STEP: Select a Story to Engage](story.html){: .btn .btn-blue }
 
