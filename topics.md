@@ -9,7 +9,7 @@ parent: Workshop Activities
 <a href="" target="_blank"><img src="images/topic-01-article.png" style="float:right;width:330px;" alt="image description"></a>
 For this workshop, we will provide you with a research paper to use as the base for you to create a persuasive and engaging presentation. If you'd like to use your own topic or paper for the presentation, please go ahead and follow along with the provided research paper instructions to make your own presentation. That said, it will take you longer to create your own presentation during the workshop as you will be provided with processed information for the provided paper that you will have to generate on your own for your own topic (like the most interesting facts or information to communicate for example).
 
-The article we'll create a presentation for is called, [**Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing**](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/09/031..pdf){:target="_blank"}. Please go ahead and skim through the _Introduction_ and _Discussion_ sections of the paper to get an idea of what it is about and help us identify the key points to communicate.
+> The article we'll create a presentation for is called, [**Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing**](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/09/031..pdf){:target="_blank"}. Please go ahead and skim through the _Introduction_ and _Discussion_ sections of the paper to get an idea of what it is about and help us identify the key points to communicate.
 
 ## Know Your Audience
 <img src="images/paw-patrol-logo.png" style="float:right;width:230px;" alt="image description">
