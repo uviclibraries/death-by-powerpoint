@@ -4,7 +4,8 @@ title: 3-Slides & Images
 nav_order: 7
 parent: Workshop Activities
 ---
-# Create Your Slides with Complementary Imagry
+# Create Your Slides with Complementary Imagery
+
 
 
 - Please review the following [Introductory Slides](#){:target="_blank"} [**COMING SOON**] or [Workshop Introduction Video](#){:target="_blank"} [**COMING SOON**]
