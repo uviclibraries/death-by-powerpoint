@@ -6,12 +6,16 @@ parent: Workshop Activities
 ---
 # Create Your Slides with Complementary Imagery
 
+- Choosing your presentation platform:
+- Label sections of your presentation:
+- Start creating 1 (or more slides) for each topic and key point you identified earlier
+- Label each slide with some text (but not too much)
+- Find (or create) and image that helps convey the message you want to communicate for each key point or topic using freely licensable tools like:
+   - [Pexels](https://www.pexels.com/){:target="_blank"}
+   - [Unsplash](https://unsplash.com/){:target="_blank"}
+   - [CoPilot Image designer](https://www.bing.com/images/create?FORM=GENILP){:target="_blank"} (wich is based on ChatGPT) for an AI generated image 
 
 
-- Please review the following [Introductory Slides](#){:target="_blank"} [**COMING SOON**] or [Workshop Introduction Video](#){:target="_blank"} [**COMING SOON**]
-
-- Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 [NEXT STEP: Record Your Presentation](record.html){: .btn .btn-blue }
