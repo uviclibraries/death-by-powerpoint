@@ -5,11 +5,11 @@ nav_order: 5
 parent: Workshop Activities
 ---
 # A Story to Engage
+<img src="images/book-lights.jpg" style="float:right;width:330px;" alt="Book with twinkle lights representing creativity">
 Using a story is one of the easiest and most effective ways to help your audience remember the facts and information that you want them to take away from your presentation. Think of a story as the coat rack that you organize and hang the information you want your audience to remember and use.
 
 ## Story Tips
 Just a reminder of key tips to keep in mind as you pull together your story:
-<a href="" target="_blank"><img src="images/book-lights.jpg" style="float:right;width:330px;" alt="Book with twinkle lights representing creativity"></a>
 - **Know your audience**: Your professor? Your classmates? Young? Old? Researchers who know the technical language of your discipline? Are people unfamiliar with your discipline's technical language?
 - **Start with a big idea or something counterintuitive**: The idea is to capture people's attention, and hopefully their imagination so that hopefully their attention will persist to the end of the presentation by anchoring what is to come with your story.
 - **Tell a personal story** (or someone else's personal story): For some reason, personal or relatable stories are more memorable for most people.
