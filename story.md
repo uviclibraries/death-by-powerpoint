@@ -25,8 +25,6 @@ It wasn't easy to come up with a memorable personal story about [Makerspace Work
 > - Since then our makerspace, has issued over 1,500 workshop badges.
 > - Informal feedback from students has been very positive.
 
-Next we will use these key points to tell a short story at the beginning of our presentation to set the stage for the important informatioin to follow.
-
-Please review the following [Introductory Slides](#){:target="_blank"} 
+Next, we will use these key points to tell a short story at the beginning of our presentation to set the stage for the important information to follow.
 
 [NEXT STEP: Create Your Slides with Complementary Imagry](slides-images.html){: .btn .btn-blue }
