@@ -5,9 +5,9 @@ nav_order: 3
 parent: Workshop Activities
 ---
 # Choosing a Topic & Identifying Key Points
-## Choosing Your Topic
+## The Presentation Topic
 <img src="images/topic-01-article.png" style="float:right;width:330px;" alt="image description">
-For this workshop, we will provide you with a research paper to use as the base for you to create a persuasive and engaging presentation. 
+For this workshop, we will provide you with a research paper to use as the base for you to create a persuasive and engaging presentation. If you'd like to use your own topic or paper for the presentation, please go ahead and follow along with the provided paper instructions to make your own presentation. That said, it will take you longer to create your own presentation during the workshop as you will be provided with processed information for the provided paper that you will have to generate on your own for your own topic (like the most interesting facts or information to communicate).
 
 ## Identifying Key Points for Your Presentation
 To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these two points in mind as you read through the document, and then highlight the passages that meet the criteria:
