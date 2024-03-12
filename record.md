@@ -6,11 +6,11 @@ parent: Workshop Activities
 ---
 # Record Your Presentation
 
-
-- Please review the following [Introductory Slides](#){:target="_blank"} [**COMING SOON**] or [Workshop Introduction Video](#){:target="_blank"} [**COMING SOON**]
-
-- Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Please record your presentation using Zoom:
+- Start a Zoom call just for yourself
+- Share your screen (but not video)
+- Start recording your presentation (using Zoom)
+- Stop recording when you're done and after you end the Zoom call, Zoom will generate a video of your presentation that you can share if you'd like.
 
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
