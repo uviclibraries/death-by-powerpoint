@@ -11,14 +11,23 @@ For this workshop, we will provide you with a research paper to use as the base 
 
 The article we'll create a presentation for is called, [**Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing**](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/09/031..pdf){:target="_blank"}. Please go ahead and skim through the _Introduction_ and _Discussion_ sections of the paper to get an idea of what it is about and help us identify the key points to communicate.
 
-## Time Constraints
-You are usually given a maximum time for your presentations. In the case of the provided Makerspace Workshop Badge paper, the conference where it is being presented has given a hard time limit of 10 minutes for the presentation. 
-- How many sides for a 10-minute presentation? If you follow the guidelines in this workshop, you should allow for approximatly 30 seconds per slide. That would mean in the case of the provided research paper, limiting the number of slides to 20. 
-- Once you've completed a first draft of the presentation you can time a practice presentation and see if it takes more or less than 10 minutes to present the slides.
-
 ## Know Your Audience
+<img src="images/paw-patrol-logo.png" style="float:right;width:330px;" alt="image description">
+It's so important to know who your audience is! Are they your professor and classmates for a class presentation? Are they a group of your peers at an academic conference? Are they a community group of retired folk, or an elementary school class? In each case, the key points you discuss, and the language you use should be somewhat different. For example, the language and cultural reference you use for a group of university students will be quite different than the simple language, and "Paw Patrol" reference you might use for a group of elementary students.
 
-- The audience of university makerspace staff, but not education experts for the most part. Other audience considerations include age, interestes, cultural references, etc.
+- Who is your audience? Your professor?
+Is your  audience a group of experts? 
+Are they novices? 
+Then maybe try to avoid technical language and discipline specific jargon.
+You would probably communicate quite  differently if your audience is a group of elementary students compared to a group of graduate students studying in your area of research.
+Different audience, different cultural references, different stories will resonate with each group.
+
+- The audience of university makerspace staff, but not education experts for the most part. Other audience considerations include age, interests, cultural references, etc.
+
+## Time Constraints
+We often have, or are given, a maximum time for our presentations, whether the time limit is given to us by conference organizers, or because we have a specific amount of time to lecture during a class. In the case of the provided Makerspace Workshop Badge paper, the conference where it was  presented had a hard time limit of 10 minutes for all presentations. 
+- How many sides for a 10-minute presentation? If you follow the guidelines in this workshop, you should allow for approximately 30 seconds per slide. That would mean in the case of the provided research paper, limiting the number of slides to 20. 
+- Once you've completed a first draft of the presentation you can time a practice presentation and see if it takes more or less than 10 minutes to present the slides.
 
 ## Identifying Key Points for Your Presentation
 To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these two points in mind as you read through the document, and then highlight the passages that meet the criteria:
@@ -32,3 +41,6 @@ Please do not hesitate to ask the instructor leading the workshop if you have an
 
 
 [NEXT STEP: Select a Story to Engage](story.html){: .btn .btn-blue }
+
+PAW Patrol. (2024). Wikipedia, the free encyclopedia. [https://simple.wikipedia.org/w/index.php?title=PAW_Patrol&oldid=9383206](https://simple.wikipedia.org/w/index.php?title=PAW_Patrol&oldid=9383206){:target="_blank"}
+
