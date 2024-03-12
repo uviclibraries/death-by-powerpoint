@@ -17,9 +17,15 @@ Just a reminder of things to keep in mind as you pull together your story:
 - End with a positive takeaway or call to action
 
 ## Story for the Makerspace Badging Paper
+It wasn't easy to come up with a memorable personal story about [Makerspace Workshop Badges](images/makerspace-badge-paper.pdf){:target="_blank"} until I thought back to what prompted me to start a Bading pilot project. Here are the key elements of the origin story of Makerspace Badges in the Digital Scholarship Commons:
 
-the [Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](images/makerspace-badge-paper.pdf){:target="_blank"} paper
+> - Not long after we opened our library makerspace, two mechanical engineers took our Electronics with Arduino workshop.
+> - After completing the workshop they asked if they could have a certificate they could put on their resume to let employers know that they not only do they know about mechanical engineering but also have some experience with electronics.
+> - Within a week I’d started our Digital Badging Pilot project I sent the two engineering students Makerspace Badges that they could cite on their resumes.
+> - Since then our makerspace, has issued over 1,500 workshop badges.
+> - Informal feedback from students has been very positive.
 
+Next we will use these key points to tell a short story at the beginning of our presentation to set the stage for the important informatioin to follow.
 
 Please review the following [Introductory Slides](#){:target="_blank"} 
 
