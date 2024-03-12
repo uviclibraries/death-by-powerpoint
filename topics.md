@@ -25,8 +25,8 @@ In each case, the key points you discuss, and the language you use should be som
 ## Time Constraints
 We often have, or are given, a maximum time for our presentations, whether the time limit is given to us by conference organizers, or because we have a specific amount of time to lecture during a class. 
 > In the case of the provided Makerspace Workshop Badge paper, the conference where it was presented had a hard time limit of 10 minutes for all presentations. Today we'll set the **presentation time limit at 5-minutes** to make it easier to complete the presentation by the end of the workshop
-> - How many sides for a 5-minute presentation? If you follow the guidelines in this workshop, you should allow for approximately **30 seconds per slide**. That would mean in the case of the provided research paper, **limiting the number of slides to 10**. 
-- Once you've completed a first draft of the presentation you can time a practice presentation and see if it takes more or less than 10 minutes to present the slides and adjust accordingly.
+> - **How many sides for a 5-minute presentation?** If you follow the guidelines in this workshop, you should allow for approximately **30 seconds per slide**. That would mean in the case of the provided research paper, **limiting the number of slides to 10**. 
+- Once you've completed a first draft of the presentation you can time yourself doing a practice presentation and see if it takes more or less than 10 minutes to present the slides and adjust accordingly.
 
 ## Identifying Key Points for Your Presentation
 To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these two points in mind as you read through the document, and then highlight the passages that meet the criteria:
