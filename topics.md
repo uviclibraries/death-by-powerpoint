@@ -11,6 +11,15 @@ For this workshop, we will provide you with a research paper to use as the base 
 
 The article we'll create a presentation for is called, [**Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing**](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/09/031..pdf){:target="_blank"}. Please go ahead and skim through the _Introduction_ and _Discussion_ sections of the paper to get an idea of what it is about and help us identify the key points to communicate.
 
+## Time Constraints
+You are usually given a maximum time for your presentations. In the case of the provided Makerspace Workshop Badge paper, the conference where it is being presented has given a hard time limit of 10 minutes for the presentation. 
+- How many sides for a 10-minute presentation? If you follow the guidelines in this workshop, you should allow for approximatly 30 seconds per slide. That would mean in the case of the provided research paper, limiting the number of slides to 20. 
+- Once you've completed a first draft of the presentation you can time a practice presentation and see if it takes more or less than 10 minutes to present the slides.
+
+## Know Your Audience
+
+- The audience of university makerspace staff, but not education experts for the most part. Other audience considerations include age, interestes, cultural references, etc.
+
 ## Identifying Key Points for Your Presentation
 To identify the key points of the article or paper you will base your presentation on you may find it helpful to keep these two points in mind as you read through the document, and then highlight the passages that meet the criteria:
 - **What are the most interesting facts or pieces of information in the document or topic?** For example in the Makerspace Badging article, the methods section of the article really isn't that interesting to a general audience, but the _Results_ and _Discuission_ sections (and to a lesser extent the _Literature Review_) have interesting facts and take-a-ways.
@@ -20,13 +29,6 @@ If you are using the provided paper on Makerspace Badges to create your presenta
 
 Please do not hesitate to ask the instructor leading the workshop if you have any questions, or would like feedback on your choice of topic.
 
-## Time Constraints
-You are usually given a maximum time for your presentations. In the case of the provided Makerspace Workshop Badge paper, the conference where it is being presented has given a hard time limit of 10 minutes for the presentation. 
-- How many sides for a 10-minute presentation? If you follow the guidelines in this workshop, you should allow for approximatly 30 seconds per slide. That would mean in the case of the provided research paper, limiting the number of slides to 20. 
-- Once you've completed a first draft of the presentation you can time a practice presentation and see if it takes more or less than 10 minutes to present the slides.
 
-## Know Your Audience
-
-- The audience of university makerspace staff, but not education experts for the most part. Other audience considerations include age, interestes, cultural references, etc.
 
 [NEXT STEP: Select a Story to Engage](story.html){: .btn .btn-blue }
