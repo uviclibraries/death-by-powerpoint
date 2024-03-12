@@ -37,7 +37,7 @@ To identify the key points of the article or paper you will base your presentati
 > - Informal feedback from learners on the UVic Libraries makerspace badging project has been positive.
 > - The University of Victoria Libraries’ Digital Scholarship Commons (DSC) taught over 20,000 workshop participants and over 1,300 of those participants earned a digital badge.
 > - To date, little research has been published exploring how users of academic makerspaces are using their informal credentials.
-> - **A mixed-methods approach to this research topic was taken, with an exploratory survey sent to all DSC workshop badge recipients. Follow-up semi-structured qualitative interviews were conducted with a subset of survey participants to explore topics in greater depth.**
+> - A mixed-methods approach to this research topic was taken, with an exploratory survey sent to all DSC workshop badge recipients. Follow-up semi-structured qualitative interviews were conducted with a subset of survey participants to explore topics in greater depth.
 > - 23% percent of drop-in workshop participants earned a makerspace badge for successfully demonstrating the skills they developed in the workshop.
 > - 90% of makerspace badge earners who used their badges in a job search believe that the informal credentials helped them secure a job.
 > - 75% percent of all makerspace badge earners planned on using their badges in future job searches.
