@@ -4,8 +4,8 @@ title: 2-Engaging Story
 nav_order: 5
 parent: Workshop Activities
 ---
+# A Story to Remember
 <img src="images/book-lights.jpg" style="float:right;width:330px;" alt="Book with twinkle lights representing creativity">
-# A Story to Remember 
 Using a story is one of the easiest and most effective ways to help your audience remember the facts and information that you want them to take away from your presentation. Think of a story as the coat rack that you organize and hang the information you want your audience to remember and use.
 
 ## Story Tips
