@@ -17,6 +17,8 @@ We have all been there before… In a class or a meeting, the presenter reads te
 
 In this workshop, we’re going to focus on learning and using tips and tricks so your presentations engage and persuade, and not bore your audience to death by PowerPoint.
 
+<img src="images/power-point-disability.png" style="width:800px;" alt="Dilbert's Power Point disability cartoon">
+
 ## Learning objectives
 
 At the end of this workshop, you will be able to:
