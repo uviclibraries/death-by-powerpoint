@@ -12,13 +12,14 @@ parent: Workshop Activities
    - Canva
    - Any other tool you like using.
 - Label sections of your presentation:
-   - Introduction
+   - Title Slide
+   - Story & Introduction
    - What are Digital Badges?
    - Why Use Badges?
    - How Many Badges Requested?
    - Are Badges Being Used?
    - Are Badges Helpful in Job Searches?
-   - Conclusions
+   - Conclusions & call back initial story
 - Start creating 1 (or more slides) for each topic and key point you identified earlier
 - Label each slide with some text (but not too much)
 - Find (or create) images that help convey the message you want to communicate for each key point or topic using freely licensable tools like:
