@@ -18,6 +18,7 @@ Storytelling is a powerful teaching tool. That said, we should never forget to p
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KbSPPFYxx3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Nayomi Chibana has some [excellent suggestions](https://visme.co/blog/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/){:target="_blank"} for effective storytelling techniques for presentations. Think of ways you could incorporate some of the techniques she covers into the presentation you will make as part of this workshop. Below are the main points from Nayomi’s article on storytelling in presentations:
+
     1. Immerse your audience in a story
     2. Tell a personal story
     3. Create suspense
