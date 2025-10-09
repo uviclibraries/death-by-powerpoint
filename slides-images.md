@@ -6,12 +6,14 @@ parent: Workshop Activities
 ---
 # Create Your Slides with Complementary Imagery
 
-1. Choosing your presentation platform. For example, you could use:
+## Choosing your presentation platform.
+For example, you could use:
    - Microsoft PowerPoint
-   - Google Presentation
-   - Canva
-   - Any other tool you like using.
-2. Label sections of your presentation:
+   - [Google Presentation](http://slides.google.com/){:target="_blank"}
+   - [Canva](https://canva.com){:target="_blank"}
+   - Any other presentation tool you like using
+
+## Label sections of your presentation:
    - Title Slide
    - Story & Introduction
    - What are Digital Badges?
@@ -20,9 +22,15 @@ parent: Workshop Activities
    - Are Badges Being Used?
    - Are Badges Helpful in Job Searches?
    - Conclusions & call back initial story
-3. Start creating 1 or more slides for each topic and key point you identified earlier...
-4. Label each slide with some text (but not too much)
-5. Find (or create) images that help convey the message you want to communicate for each key point or topic using freely licensable tools like:
+
+## Start creating 1 or more slides for each topic and key point you identified earlier...
+   - stuff
+
+## Label each slide with some text (but not too much)
+   - other stuff
+
+## Find or Create Images
+that help convey the message you want to communicate for each key point or topic using freely licensable tools like:
    - [Pexels](https://www.pexels.com/){:target="_blank"}
    - [Unsplash](https://unsplash.com/){:target="_blank"}
    - [CoPilot Image designer](https://copilot.microsoft.com/){:target="_blank"} (which is based on ChatGPT) for an AI-generated image
