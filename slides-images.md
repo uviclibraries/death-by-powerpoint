@@ -20,7 +20,7 @@ parent: Workshop Activities
    - Are Badges Being Used?
    - Are Badges Helpful in Job Searches?
    - Conclusions & call back initial story
-3. Start creating 1 (or more slides) for each topic and key point you identified earlier
+3. Start creating 1 or more slides for each topic and key point you identified earlier...
 4. Label each slide with some text (but not too much)
 5. Find (or create) images that help convey the message you want to communicate for each key point or topic using freely licensable tools like:
    - [Pexels](https://www.pexels.com/){:target="_blank"}
@@ -28,6 +28,7 @@ parent: Workshop Activities
    - [CoPilot Image designer](https://copilot.microsoft.com/){:target="_blank"} (which is based on ChatGPT) for an AI-generated image
    - [Google Gemini](https://gemini.google.com/){:target="_blank"}
    - [ChatGPT](https://chatgpt.com/){:target="_blank"}
+   - Icons from the [Noun Project](https://thenounproject.com/){:target="_blank"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QLdrfSNdXAc" title="Finding CC licensed photos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
