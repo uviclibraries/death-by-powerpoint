@@ -12,7 +12,7 @@ For example, you could use:
       - [Google Slides](https://docs.google.com/presentation/d/1X43cE2Of1DPJ4oVfZYPJnnFoTVvlkIAX8cag1FRPZU8/){:target="_blank"}
       - [Microsoft PowerPoint](/images/death-by-ppt-template-2024.pptx){:target="_blank"}
    - [Canva](https://canva.com){:target="_blank"} (No UVic template, you have to find your own)
-   - Any other presentation tool you are cofortable using
+   - Any other presentation tool you are comfortable using
 
 ## 2. Label sections of your presentation:
 Use template pages that you think are appropriate, and limit the number of elements on each slide to 6 or fewer (including title, images, and bullet points). Put more details in your speaker notes.
@@ -26,7 +26,7 @@ Use template pages that you think are appropriate, and limit the number of eleme
    - Conclusions & call back initial story
 
 ## Find or Create Images
-that help convey the message you want to communicate for each key point or topic using freely licensable tools like:
+To help you convey the message you want to communicate for each key point or topic, you can use charts and images you've created, and/or use these tools to find license-free imagery:
    - [Pexels](https://www.pexels.com/){:target="_blank"}
    - [Unsplash](https://unsplash.com/){:target="_blank"}
    - [CoPilot Image designer](https://copilot.microsoft.com/){:target="_blank"} (which is based on ChatGPT) for an AI-generated image
