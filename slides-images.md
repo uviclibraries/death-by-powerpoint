@@ -8,10 +8,11 @@ parent: Workshop Activities
 
 ## Choosing your presentation platform.
 For example, you could use:
-   - Microsoft PowerPoint
-   - [Google Presentation](http://slides.google.com/){:target="_blank"}
-   - [Canva](https://canva.com){:target="_blank"}
-   - Any other presentation tool you like using
+   - UVic's Slide Template for:
+      - [Google Slides](https://docs.google.com/presentation/d/1X43cE2Of1DPJ4oVfZYPJnnFoTVvlkIAX8cag1FRPZU8/){:target="_blank"}
+      - [Microsoft PowerPoint](/images/death-by-ppt-template-2024.pptx){:target="_blank"}
+   - [Canva](https://canva.com){:target="_blank"} (No UVic template, you have to find your own)
+   - Any other presentation tool you are cofortable using
 
 ## Label sections of your presentation:
    - Title Slide
