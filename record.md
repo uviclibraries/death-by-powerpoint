@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-Record
+title: 4-Record (OPTIONAL)
 nav_order: 8
 parent: Workshop Activities
 ---
