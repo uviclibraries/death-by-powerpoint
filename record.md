@@ -4,7 +4,7 @@ title: 4-Record (OPTIONAL)
 nav_order: 8
 parent: Workshop Activities
 ---
-# Record Your Presentation
+# Record Your Presentation (OPTIONAL)
 
 Please record your presentation using Zoom:
 - Start a Zoom call just for yourself
