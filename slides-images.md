@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 # Create Your Slides with Complementary Imagery
 
-## Choosing your presentation platform.
+## 1. Choosing your presentation platform.
 For example, you could use:
    - UVic's Slide Template for:
       - [Google Slides](https://docs.google.com/presentation/d/1X43cE2Of1DPJ4oVfZYPJnnFoTVvlkIAX8cag1FRPZU8/){:target="_blank"}
@@ -14,7 +14,8 @@ For example, you could use:
    - [Canva](https://canva.com){:target="_blank"} (No UVic template, you have to find your own)
    - Any other presentation tool you are cofortable using
 
-## Label sections of your presentation:
+## 2. Label sections of your presentation:
+Use template pages that you think are appropriate, and limit the number of elements on each slide to 6 or fewer (including title, images, and bullet points). Put more details in your speaker notes.
    - Title Slide
    - Story & Introduction
    - What are Digital Badges?
@@ -23,12 +24,6 @@ For example, you could use:
    - Are Badges Being Used?
    - Are Badges Helpful in Job Searches?
    - Conclusions & call back initial story
-
-## Start creating 1 or more slides for each topic and key point you identified earlier...
-   - stuff
-
-## Label each slide with some text (but not too much)
-   - other stuff
 
 ## Find or Create Images
 that help convey the message you want to communicate for each key point or topic using freely licensable tools like:
