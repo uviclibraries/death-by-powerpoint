@@ -16,6 +16,11 @@ nav_order: 10
 - Phillips, David JP. (2014, April 14). How to avoid death by PowerPoint [Mp4]. TED Talks. https://www.youtube.com/watch?v=Iwpi1Lm6dFo
 - Purewal, S. J. (2019). Top 10 world’s worst PowerPoint presentations. PC World. https://www.pcworld.idg.com.au/slideshow/366369/world-worst-powerpoint-presentations/
 
+## Creative Commons Media Search
+- [Creative Commons Photo & Image Search](https://open4us.org/find-oer/#Photo/ImageSearch){:target="_blank"}
+- [Creative Commons Video Search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
+- [Creative Commons Audio & Music Search](https://open4us.org/find-oer/#Audio/MusicSearch){:target="_blank"}
+  
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
